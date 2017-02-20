@@ -89,7 +89,8 @@ public class SQLiteMgr
                 return false;
             }
 
-            m_SqlDBFilePath = Application.dataPath + m_SqlDBFilePath;
+            var directory = System.IO.Path.GetDirectoryName(Application.dataPath);
+            m_SqlDBFilePath = directory + m_SqlDBFilePath;
         }
 
         m_SqlDBFileFullUrl = "URI=file:" + m_SqlDBFilePath + DBName;
