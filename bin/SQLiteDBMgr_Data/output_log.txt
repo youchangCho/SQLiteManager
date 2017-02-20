@@ -1,0 +1,361 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 660 (ID=0x11c0)
+    Vendor:   NVIDIA
+    VRAM:     2016 MB
+    Driver:   21.21.13.7653
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\project\Study\3.Unity\Ref\SQLiteDBMgr\bin\SQLiteDBMgr_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\project\Study\3.Unity\Ref\SQLiteDBMgr\bin\SQLiteDBMgr_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\project\Study\3.Unity\Ref\SQLiteDBMgr\bin\SQLiteDBMgr_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\project\Study\3.Unity\Ref\SQLiteDBMgr\bin\SQLiteDBMgr_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\project\Study\3.Unity\Ref\SQLiteDBMgr\bin\SQLiteDBMgr_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\project\Study\3.Unity\Ref\SQLiteDBMgr\bin\SQLiteDBMgr_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\project\Study\3.Unity\Ref\SQLiteDBMgr\bin\SQLiteDBMgr_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\project\Study\3.Unity\Ref\SQLiteDBMgr\bin\SQLiteDBMgr_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\project\Study\3.Unity\Ref\SQLiteDBMgr\bin\SQLiteDBMgr_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\project\Study\3.Unity\Ref\SQLiteDBMgr\bin\SQLiteDBMgr_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\project\Study\3.Unity\Ref\SQLiteDBMgr\bin\SQLiteDBMgr_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\project\Study\3.Unity\Ref\SQLiteDBMgr\bin\SQLiteDBMgr_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: D:\project\Study\3.Unity\Ref\SQLiteDBMgr\bin\SQLiteDBMgr_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\project\Study\3.Unity\Ref\SQLiteDBMgr\bin\SQLiteDBMgr_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: D:\project\Study\3.Unity\Ref\SQLiteDBMgr\bin\SQLiteDBMgr_Data\Managed\Mono.Data.SqliteClient.dll (this message is harmless)
+Loading D:\project\Study\3.Unity\Ref\SQLiteDBMgr\bin\SQLiteDBMgr_Data\Managed\Mono.Data.SqliteClient.dll into Unity Child Domain
+Platform assembly: D:\project\Study\3.Unity\Ref\SQLiteDBMgr\bin\SQLiteDBMgr_Data\Managed\System.Data.dll (this message is harmless)
+Loading D:\project\Study\3.Unity\Ref\SQLiteDBMgr\bin\SQLiteDBMgr_Data\Managed\System.Data.dll into Unity Child Domain
+- Completed reload, in  0.044 seconds
+Platform assembly: D:\project\Study\3.Unity\Ref\SQLiteDBMgr\bin\SQLiteDBMgr_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\project\Study\3.Unity\Ref\SQLiteDBMgr\bin\SQLiteDBMgr_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.819135 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 618 -> priority: 1 
+Platform assembly: D:\project\Study\3.Unity\Ref\SQLiteDBMgr\bin\SQLiteDBMgr_Data\Managed\System.Transactions.dll (this message is harmless)
+Platform assembly: D:\project\Study\3.Unity\Ref\SQLiteDBMgr\bin\SQLiteDBMgr_Data\Managed\System.Xml.dll (this message is harmless)
+SQLiter - Opening SQLite Connection at URI=file:D:/project/Study/3.Unity/Ref/SQLiteDBMgr/bin/SQLiteDBMgr_Data/DBdata/TestDB.db
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Fallback handler could not load library D:/project/Study/3.Unity/Ref/SQLiteDBMgr/bin/SQLiteDBMgr_Data/Mono/sqlite
+Fallback handler could not load library D:/project/Study/3.Unity/Ref/SQLiteDBMgr/bin/SQLiteDBMgr_Data/Mono/.\sqlite
+Fallback handler could not load library D:/project/Study/3.Unity/Ref/SQLiteDBMgr/bin/SQLiteDBMgr_Data/Mono/sqlite
+Fallback handler could not load library D:/project/Study/3.Unity/Ref/SQLiteDBMgr/bin/SQLiteDBMgr_Data/Mono/libsqlite
+Fallback handler could not load library D:/project/Study/3.Unity/Ref/SQLiteDBMgr/bin/SQLiteDBMgr_Data/Mono/.\libsqlite
+Fallback handler could not load library D:/project/Study/3.Unity/Ref/SQLiteDBMgr/bin/SQLiteDBMgr_Data/Mono/libsqlite
+Fallback handler could not load library D:/project/Study/3.Unity/Ref/SQLiteDBMgr/bin/SQLiteDBMgr_Data/Mono/sqlite
+Fallback handler could not load library D:/project/Study/3.Unity/Ref/SQLiteDBMgr/bin/SQLiteDBMgr_Data/Mono/.\sqlite
+Fallback handler could not load library D:/project/Study/3.Unity/Ref/SQLiteDBMgr/bin/SQLiteDBMgr_Data/Mono/sqlite
+Fallback handler could not load library D:/project/Study/3.Unity/Ref/SQLiteDBMgr/bin/SQLiteDBMgr_Data/Mono/libsqlite
+Fallback handler could not load library D:/project/Study/3.Unity/Ref/SQLiteDBMgr/bin/SQLiteDBMgr_Data/Mono/.\libsqlite
+Fallback handler could not load library D:/project/Study/3.Unity/Ref/SQLiteDBMgr/bin/SQLiteDBMgr_Data/Mono/libsqlite
+Fallback handler could not load library D:/project/Study/3.Unity/Ref/SQLiteDBMgr/bin/SQLiteDBMgr_Data/Mono/sqlite
+Fallback handler could not load library D:/project/Study/3.Unity/Ref/SQLiteDBMgr/bin/SQLiteDBMgr_Data/Mono/.\sqlite
+Fallback handler could not load library D:/project/Study/3.Unity/Ref/SQLiteDBMgr/bin/SQLiteDBMgr_Data/Mono/sqlite
+Fallback handler could not load library D:/project/Study/3.Unity/Ref/SQLiteDBMgr/bin/SQLiteDBMgr_Data/Mono/libsqlite
+Fallback handler could not load library D:/project/Study/3.Unity/Ref/SQLiteDBMgr/bin/SQLiteDBMgr_Data/Mono/.\libsqlite
+Fallback handler could not load library D:/project/Study/3.Unity/Ref/SQLiteDBMgr/bin/SQLiteDBMgr_Data/Mono/libsqlite
+Fallback handler could not load library D:/project/Study/3.Unity/Ref/SQLiteDBMgr/bin/SQLiteDBMgr_Data/Mono/sqlite
+Fallback handler could not load library D:/project/Study/3.Unity/Ref/SQLiteDBMgr/bin/SQLiteDBMgr_Data/Mono/.\sqlite
+Fallback handler could not load library D:/project/Study/3.Unity/Ref/SQLiteDBMgr/bin/SQLiteDBMgr_Data/Mono/sqlite
+Fallback handler could not load library D:/project/Study/3.Unity/Ref/SQLiteDBMgr/bin/SQLiteDBMgr_Data/Mono/libsqlite
+Fallback handler could not load library D:/project/Study/3.Unity/Ref/SQLiteDBMgr/bin/SQLiteDBMgr_Data/Mono/.\libsqlite
+Fallback handler could not load library D:/project/Study/3.Unity/Ref/SQLiteDBMgr/bin/SQLiteDBMgr_Data/Mono/libsqlite
+Fallback handler could not load library D:/project/Study/3.Unity/Ref/SQLiteDBMgr/bin/SQLiteDBMgr_Data/Mono/sqlite
+Fallback handler could not load library D:/project/Study/3.Unity/Ref/SQLiteDBMgr/bin/SQLiteDBMgr_Data/Mono/.\sqlite
+Fallback handler could not load library D:/project/Study/3.Unity/Ref/SQLiteDBMgr/bin/SQLiteDBMgr_Data/Mono/sqlite
+Fallback handler could not load library D:/project/Study/3.Unity/Ref/SQLiteDBMgr/bin/SQLiteDBMgr_Data/Mono/libsqlite
+Fallback handler could not load library D:/project/Study/3.Unity/Ref/SQLiteDBMgr/bin/SQLiteDBMgr_Data/Mono/.\libsqlite
+Fallback handler could not load library D:/project/Study/3.Unity/Ref/SQLiteDBMgr/bin/SQLiteDBMgr_Data/Mono/libsqlite
+Fallback handler could not load library D:/project/Study/3.Unity/Ref/SQLiteDBMgr/bin/SQLiteDBMgr_Data/Mono/sqlite
+Fallback handler could not load library D:/project/Study/3.Unity/Ref/SQLiteDBMgr/bin/SQLiteDBMgr_Data/Mono/.\sqlite
+Fallback handler could not load library D:/project/Study/3.Unity/Ref/SQLiteDBMgr/bin/SQLiteDBMgr_Data/Mono/sqlite
+Fallback handler could not load library D:/project/Study/3.Unity/Ref/SQLiteDBMgr/bin/SQLiteDBMgr_Data/Mono/libsqlite
+Fallback handler could not load library D:/project/Study/3.Unity/Ref/SQLiteDBMgr/bin/SQLiteDBMgr_Data/Mono/.\libsqlite
+Fallback handler could not load library D:/project/Study/3.Unity/Ref/SQLiteDBMgr/bin/SQLiteDBMgr_Data/Mono/libsqlite
+Fallback handler could not load library D:/project/Study/3.Unity/Ref/SQLiteDBMgr/bin/SQLiteDBMgr_Data/Mono/sqlite
+Fallback handler could not load library D:/project/Study/3.Unity/Ref/SQLiteDBMgr/bin/SQLiteDBMgr_Data/Mono/.\sqlite
+Fallback handler could not load library D:/project/Study/3.Unity/Ref/SQLiteDBMgr/bin/SQLiteDBMgr_Data/Mono/sqlite
+Fallback handler could not load library D:/project/Study/3.Unity/Ref/SQLiteDBMgr/bin/SQLiteDBMgr_Data/Mono/libsqlite
+Fallback handler could not load library D:/project/Study/3.Unity/Ref/SQLiteDBMgr/bin/SQLiteDBMgr_Data/Mono/.\libsqlite
+Fallback handler could not load library D:/project/Study/3.Unity/Ref/SQLiteDBMgr/bin/SQLiteDBMgr_Data/Mono/libsqlite
+Mono.Data.SqliteClient.SqliteSyntaxException: unable to open database file
+  at Mono.Data.SqliteClient.SqliteCommand.GetNextStatement (IntPtr pzStart, System.IntPtr& pzTail, System.IntPtr& pStmt) [0x00000] in <filename unknown>:0 
+  at Mono.Data.SqliteClient.SqliteCommand.ExecuteReader (CommandBehavior behavior, Boolean want_results, System.Int32& rows_affected) [0x00000] in <filename unknown>:0 
+  at Mono.Data.SqliteClient.SqliteCommand.ExecuteNonQuery () [0x00000] in <filename unknown>:0 
+  at SQLiteMgr.Connect () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DataTablecolumnCnt:: DB count is not number
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at DBClient.GetDBData () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCall.Invoke (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCallList.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEventBase.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEvent.Invoke () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.Press () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.OnPointerClick (UnityEngine.EventSystems.PointerEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute (IPointerClickHandler handler, UnityEngine.EventSystems.BaseEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute[IPointerClickHandler] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.EventFunction`1 functor) [0x00000] in <filename unknown>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMousePress(MouseButtonEventData)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent()
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+ 
+(Filename:  Line: -1)
+
+SQLiter - Opening SQLite Connection at URI=file:D:/project/Study/3.Unity/Ref/SQLiteDBMgr/bin/SQLiteDBMgr_Data/DBdata/TestDB.db
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Mono.Data.SqliteClient.SqliteSyntaxException: unable to open database file
+  at Mono.Data.SqliteClient.SqliteCommand.GetNextStatement (IntPtr pzStart, System.IntPtr& pzTail, System.IntPtr& pStmt) [0x00000] in <filename unknown>:0 
+  at Mono.Data.SqliteClient.SqliteCommand.ExecuteReader (CommandBehavior behavior, Boolean want_results, System.Int32& rows_affected) [0x00000] in <filename unknown>:0 
+  at Mono.Data.SqliteClient.SqliteCommand.ExecuteNonQuery () [0x00000] in <filename unknown>:0 
+  at SQLiteMgr.Connect () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DataTablecolumnCnt:: DB count is not number
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at DBClient.GetDBData () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCall.Invoke (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCallList.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEventBase.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEvent.Invoke () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.Press () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.OnPointerClick (UnityEngine.EventSystems.PointerEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute (IPointerClickHandler handler, UnityEngine.EventSystems.BaseEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute[IPointerClickHandler] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.EventFunction`1 functor) [0x00000] in <filename unknown>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMousePress(MouseButtonEventData)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent()
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+ 
+(Filename:  Line: -1)
+
+SQLiter - Opening SQLite Connection at URI=file:D:/project/Study/3.Unity/Ref/SQLiteDBMgr/bin/SQLiteDBMgr_Data/DBdata/TestDB.db
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Mono.Data.SqliteClient.SqliteSyntaxException: unable to open database file
+  at Mono.Data.SqliteClient.SqliteCommand.GetNextStatement (IntPtr pzStart, System.IntPtr& pzTail, System.IntPtr& pStmt) [0x00000] in <filename unknown>:0 
+  at Mono.Data.SqliteClient.SqliteCommand.ExecuteReader (CommandBehavior behavior, Boolean want_results, System.Int32& rows_affected) [0x00000] in <filename unknown>:0 
+  at Mono.Data.SqliteClient.SqliteCommand.ExecuteNonQuery () [0x00000] in <filename unknown>:0 
+  at SQLiteMgr.Connect () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DataTablecolumnCnt:: DB count is not number
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at DBClient.GetDBData () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCall.Invoke (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCallList.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEventBase.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEvent.Invoke () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.Press () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.OnPointerClick (UnityEngine.EventSystems.PointerEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute (IPointerClickHandler handler, UnityEngine.EventSystems.BaseEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute[IPointerClickHandler] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.EventFunction`1 functor) [0x00000] in <filename unknown>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMousePress(MouseButtonEventData)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent()
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+ 
+(Filename:  Line: -1)
+
+SQLiter - Opening SQLite Connection at URI=file:D:/project/Study/3.Unity/Ref/SQLiteDBMgr/bin/SQLiteDBMgr_Data/DBdata/TestDB.db
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Mono.Data.SqliteClient.SqliteSyntaxException: unable to open database file
+  at Mono.Data.SqliteClient.SqliteCommand.GetNextStatement (IntPtr pzStart, System.IntPtr& pzTail, System.IntPtr& pStmt) [0x00000] in <filename unknown>:0 
+  at Mono.Data.SqliteClient.SqliteCommand.ExecuteReader (CommandBehavior behavior, Boolean want_results, System.Int32& rows_affected) [0x00000] in <filename unknown>:0 
+  at Mono.Data.SqliteClient.SqliteCommand.ExecuteNonQuery () [0x00000] in <filename unknown>:0 
+  at SQLiteMgr.Connect () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DataTablecolumnCnt:: DB count is not number
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at DBClient.GetDBData () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCall.Invoke (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCallList.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEventBase.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEvent.Invoke () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.Press () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.OnPointerClick (UnityEngine.EventSystems.PointerEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute (IPointerClickHandler handler, UnityEngine.EventSystems.BaseEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute[IPointerClickHandler] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.EventFunction`1 functor) [0x00000] in <filename unknown>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMousePress(MouseButtonEventData)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent()
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+ 
+(Filename:  Line: -1)
+
+SQLiter - Opening SQLite Connection at URI=file:D:/project/Study/3.Unity/Ref/SQLiteDBMgr/bin/SQLiteDBMgr_Data/DBdata/TestDB.db
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Mono.Data.SqliteClient.SqliteSyntaxException: unable to open database file
+  at Mono.Data.SqliteClient.SqliteCommand.GetNextStatement (IntPtr pzStart, System.IntPtr& pzTail, System.IntPtr& pStmt) [0x00000] in <filename unknown>:0 
+  at Mono.Data.SqliteClient.SqliteCommand.ExecuteReader (CommandBehavior behavior, Boolean want_results, System.Int32& rows_affected) [0x00000] in <filename unknown>:0 
+  at Mono.Data.SqliteClient.SqliteCommand.ExecuteNonQuery () [0x00000] in <filename unknown>:0 
+  at SQLiteMgr.Connect () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DataTablecolumnCnt:: DB count is not number
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at DBClient.GetDBData () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCall.Invoke (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCallList.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEventBase.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEvent.Invoke () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.Press () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.OnPointerClick (UnityEngine.EventSystems.PointerEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute (IPointerClickHandler handler, UnityEngine.EventSystems.BaseEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute[IPointerClickHandler] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.EventFunction`1 functor) [0x00000] in <filename unknown>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMousePress(MouseButtonEventData)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent()
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+ 
+(Filename:  Line: -1)
+
+SQLiter - Opening SQLite Connection at URI=file:D:/project/Study/3.Unity/Ref/SQLiteDBMgr/bin/SQLiteDBMgr_Data/DBdata/TestDB.db
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Mono.Data.SqliteClient.SqliteSyntaxException: unable to open database file
+  at Mono.Data.SqliteClient.SqliteCommand.GetNextStatement (IntPtr pzStart, System.IntPtr& pzTail, System.IntPtr& pStmt) [0x00000] in <filename unknown>:0 
+  at Mono.Data.SqliteClient.SqliteCommand.ExecuteReader (CommandBehavior behavior, Boolean want_results, System.Int32& rows_affected) [0x00000] in <filename unknown>:0 
+  at Mono.Data.SqliteClient.SqliteCommand.ExecuteNonQuery () [0x00000] in <filename unknown>:0 
+  at SQLiteMgr.Connect () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DataTablecolumnCnt:: DB count is not number
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at DBClient.GetDBData () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCall.Invoke (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCallList.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEventBase.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEvent.Invoke () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.Press () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.OnPointerClick (UnityEngine.EventSystems.PointerEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute (IPointerClickHandler handler, UnityEngine.EventSystems.BaseEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute[IPointerClickHandler] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.EventFunction`1 functor) [0x00000] in <filename unknown>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMousePress(MouseButtonEventData)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent()
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+ 
+(Filename:  Line: -1)
+
+SQLiter - Opening SQLite Connection at URI=file:D:/project/Study/3.Unity/Ref/SQLiteDBMgr/bin/SQLiteDBMgr_Data/DBdata/TestDB.db
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Fallback handler could not load library D:/project/Study/3.Unity/Ref/SQLiteDBMgr/bin/SQLiteDBMgr_Data/Mono/sqlite
+Fallback handler could not load library D:/project/Study/3.Unity/Ref/SQLiteDBMgr/bin/SQLiteDBMgr_Data/Mono/.\sqlite
+Fallback handler could not load library D:/project/Study/3.Unity/Ref/SQLiteDBMgr/bin/SQLiteDBMgr_Data/Mono/sqlite
+Fallback handler could not load library D:/project/Study/3.Unity/Ref/SQLiteDBMgr/bin/SQLiteDBMgr_Data/Mono/libsqlite
+Fallback handler could not load library D:/project/Study/3.Unity/Ref/SQLiteDBMgr/bin/SQLiteDBMgr_Data/Mono/.\libsqlite
+Fallback handler could not load library D:/project/Study/3.Unity/Ref/SQLiteDBMgr/bin/SQLiteDBMgr_Data/Mono/libsqlite
+Fallback handler could not load library D:/project/Study/3.Unity/Ref/SQLiteDBMgr/bin/SQLiteDBMgr_Data/Mono/sqlite
+Fallback handler could not load library D:/project/Study/3.Unity/Ref/SQLiteDBMgr/bin/SQLiteDBMgr_Data/Mono/.\sqlite
+Fallback handler could not load library D:/project/Study/3.Unity/Ref/SQLiteDBMgr/bin/SQLiteDBMgr_Data/Mono/sqlite
+Fallback handler could not load library D:/project/Study/3.Unity/Ref/SQLiteDBMgr/bin/SQLiteDBMgr_Data/Mono/libsqlite
+Fallback handler could not load library D:/project/Study/3.Unity/Ref/SQLiteDBMgr/bin/SQLiteDBMgr_Data/Mono/.\libsqlite
+Fallback handler could not load library D:/project/Study/3.Unity/Ref/SQLiteDBMgr/bin/SQLiteDBMgr_Data/Mono/libsqlite
+SQLiter - Opening SQLite Connection at URI=file:D:/project/Study/3.Unity/Ref/SQLiteDBMgr/bin/SQLiteDBMgr_Data/DBdata/TestDB.db
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Connect Test DB
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+1234,Test Data
+,Test Data3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SQLiter - Opening SQLite Connection at URI=file:D:/project/Study/3.Unity/Ref/SQLiteDBMgr/bin/SQLiteDBMgr_Data/DBdata/TestDB.db
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SQLiter - Opening SQLite Connection at URI=file:D:/project/Study/3.Unity/Ref/SQLiteDBMgr/bin/SQLiteDBMgr_Data/DBdata/TestDB.db
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Connect Test2 DB
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+5678,Test2 Data
+,Test2 Data2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
