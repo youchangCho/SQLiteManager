@@ -9,7 +9,7 @@ using System;
 /// SQLite DB 와 통신 하기 위한 Class
 /// SQLiter Asset(plugIn) 이 필요 합니다.
 /// </summary>
-public class SQLiteMgr : MonoBehaviour
+public class SQLiteMgr
 {
     #region DB 통신을 위한 변수
 
@@ -89,7 +89,8 @@ public class SQLiteMgr : MonoBehaviour
                 return false;
             }
 
-            m_SqlDBFilePath = Application.dataPath + m_SqlDBFilePath;
+            var directory = System.IO.Path.GetDirectoryName(Application.dataPath);
+            m_SqlDBFilePath = directory + m_SqlDBFilePath;
         }
 
         m_SqlDBFileFullUrl = "URI=file:" + m_SqlDBFilePath + DBName;
