@@ -34,6 +34,10 @@ List<System.Object[]> GetTableAllData(string TableName)
 - Unity5 이상 버전 SQLite 사용시 사용하시고 필요한 부분은 추가 하여 commit 부탁 드립니다. 
 - 많이들 추가 해주세요!
 
+# How to use example project
+- DB Connect 버튼을 누르면 DB 접속 및 Test 테이블의 값을 읽어 드려 화면에 출력
+- DB Table Change 버튼을 누르면 Test2 테이블의 값을 읽어 드려 화면에 출력
+
 # References
 - SQLiter Plugin [Example] scene
 
