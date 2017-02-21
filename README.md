@@ -46,10 +46,7 @@ List<System.Object[]> GetTableAllData(string TableName)
 # References
 - SQLiter Plugin [Example] scene
 
-
-=======
->>>>>>> 13478206fd667e58a1eb9ff924f2a3bf73c87f5f
-
+# Explanation
 - DB 관련하여 Query 문을 관리하는 범용 소스가 없어서 제작하였습니다.
 - Unity5 이상 버전 SQLite 사용 시 사용하시고 필요한 부분은 추가하여 commit 부탁합니다.
 - 많이들 추가해주세요!
